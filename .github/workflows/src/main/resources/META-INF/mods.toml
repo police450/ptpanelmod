@@ -1,0 +1,11 @@
+
+modLoader="javafml"
+loaderVersion="[49,)"
+license="MIT"
+[[mods]]
+modId="ptpanelmod"
+version="1.0"
+displayName="PTPanel Mod"
+description='''
+Displays Minecraft servers from your Pterodactyl panel in the Multiplayer screen.
+'''
